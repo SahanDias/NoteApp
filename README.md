@@ -16,8 +16,8 @@ A simple Flutter Notes App using **Firebase Firestore** for real-time note manag
 ## 📦 Installation
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/SahanDias/NoteApp
+   cd NoteApp
    ```
 2. **Install dependencies**
    ```sh
@@ -45,7 +45,3 @@ A simple Flutter Notes App using **Firebase Firestore** for real-time note manag
 - ✅ Add note categories
 - ✅ Implement authentication (Google Sign-In)
 - ✅ Cloud backup & export notes as PDF
-
-
-
-
